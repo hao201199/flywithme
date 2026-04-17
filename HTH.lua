@@ -1,6 +1,4 @@
--- Trigon Hub [ Sailor Piece ] - Cleaned by deobfuscator
--- Original source: discord.gg/25ms
--- NOTE: callbacks marked with error() = deobfuscation incomplete (logic not recovered)
+
 
 local genv = getgenv()
 
@@ -259,7 +257,7 @@ local window = loadstring(game:HttpGet('https://raw.githubusercontent.com/Sindex
         Size    = UDim2.new(0, 530, 0, 400),
         Keybind = Enum.KeyCode.RightControl,
     },
-    Title          = 'Trigon Hub [ Sailor Piece ]',
+    Title          = 'Hoang Trung Hai Gay [ Sailor Piece ]',
     CloseUIButton  = { Enabled = true, Text = 'Close UI' },
     Theme          = 'Dark',
     Icon           = 82500352718600,
